@@ -65,7 +65,7 @@ README 문법
   
   ## 링크
   1. <www.naver.com>
-  2. [네이버](www.naver.com)
+  2. [네이버](http://www.naver.com)
   3. [네이버](www.naver.com, "검색 사이트")
 
   ## 이미지
