@@ -69,5 +69,4 @@ README 문법
   3. [네이버](www.naver.com, "검색 사이트")
 
   ## 이미지
-  ![IMG_0257](https://user-images.githubusercontent.com/102275439/160264018-0364e6ac-efed-4c08-ad57-740800bbdbfc.JPG)
-  ![나](./images/IMG_0257.JPG)
+  ![나]()
